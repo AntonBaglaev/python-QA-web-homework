@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+browser: chrome
+sleep_time: 2
+login: Anton_Baglaev
+password: vhT9lEMM3_
+sleep_time_1: 10
